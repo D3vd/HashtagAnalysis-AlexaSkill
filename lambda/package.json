@@ -1,0 +1,19 @@
+{
+    "name": "hashtag-analysis",
+    "version": "2.0.0",
+    "description": "Understand how the public feels about a trending topic",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "alexa",
+        "sentiment",
+        "twitter"
+    ],
+    "author": "Amazon.com",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "ask-sdk": "^2.0.0"
+    }
+}
